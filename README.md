@@ -1,7 +1,7 @@
 # Shelbot_Chatbot-with-personality
 
 ## Description
-This is a demo project created by Xiaoyun Zhang & [Yu Zhang](https://github.com/Octopus-Yu) for course Intelligent Computational Media in Aalto
+This is a demo project created by Xiaoyun & [Yu](https://github.com/Octopus-Yu) for course Intelligent Computational Media in Aalto
 
 This project aims to develop an chatbot with personality of Sheldon Cooper. We use keras and Tensorflow to process data and train the model, and Flask to deploy into a webpage. 
 
