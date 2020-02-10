@@ -1,0 +1,16 @@
+content {
+text-align: center;
+}
+
+imgLogo{
+    max-width: 100px; 
+    max-height: 100px;
+    vertical-align: text-bottom;
+}
+
+userText{
+    margin: 5%;
+    text-align: right;
+    border: solid;
+    border-color: lightgray;
+}
