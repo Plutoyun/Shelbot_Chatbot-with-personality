@@ -6,7 +6,7 @@ This is a demo project created by Xiaoyun Zhang & [Yu Zhang](https://github.com/
 This project aims to develop an chatbot with personality of Sheldon Cooper. We use keras and Tensorflow to process data and train the model, and Flask to deploy into a webpage. 
 
 ## Demo
-![](https://github.com/Plutoyun/Shelbot_Chatbot-with-personality/raw/master/demo/demo1.png)
+![image](https://github.com/Plutoyun/Shelbot_Chatbot-with-personality/blob/master/demo/demo1.PNG)
 
 ## Reference
 ### Tutorial list:
