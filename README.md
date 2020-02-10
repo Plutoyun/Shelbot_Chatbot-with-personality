@@ -8,6 +8,8 @@ This project aims to develop an chatbot with personality of Sheldon Cooper. We u
 ## Demo
 ![image](https://github.com/Plutoyun/Shelbot_Chatbot-with-personality/blob/master/demo/demo1.PNG)
 
+[demo video](https://youtu.be/4Ov01wnySnc)
+
 ## Reference
 ### Tutorial list:
 [Creating a Chatbot from Scratch using Keras and TensorFlow](https://medium.com/predict/creating-a-chatbot-from-scratch-using-keras-and-tensorflow-59e8fc76be79)      
